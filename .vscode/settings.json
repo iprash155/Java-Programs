@@ -1,6 +1,10 @@
 {
     "java.project.sourcePaths": [
         "While",
-        "DoWhile"
+        "DoWhile",
+        "Fibonacci",
+        "CountNums",
+        "ReverseTheNo",
+        "Calcualtor"
     ]
 }
