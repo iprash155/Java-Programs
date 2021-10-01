@@ -1,22 +1,26 @@
+package Basics.Fibonacci;
+
 import java.util.Scanner;
 
+/**
+ * Fibonacci
+ */
 public class Fibonacci {
+
     public static void main(String[] args) {
-        System.out.print("enter the index n ");
         Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-
-        int p =0;
-        int i = 1;
-        int count=2;
-
-        while(count<=n){
-            int temp=i;
-            i=p+i;
-            p=temp;
+        System.out.println("enter the index til you want to print series ");
+        int no = in.nextInt();
+        int i=1,prev=0,count=3;
+        System.out.print(prev);
+        System.out.print(i);
+        
+        while (count<=no) {
+            int temp =i;
+            i=i+prev;
+            prev=temp;  
+            System.out.print(i+" ");
             count++;
-            System.out.println(p);
         }
-        System.out.println(n+"th no is "+i);
     }
 }

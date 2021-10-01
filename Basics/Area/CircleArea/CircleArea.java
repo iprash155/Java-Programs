@@ -1,4 +1,4 @@
-package Basics.CircleArea;
+package Basics.Area.CircleArea;
 
 import java.util.Scanner;
 

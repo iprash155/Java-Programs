@@ -1,0 +1,309 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircleArea",
+            "request": "launch",
+            "mainClass": "Basics.Area.CircleArea.CircleArea",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CurvedSurfaceAreaOfCylinder",
+            "request": "launch",
+            "mainClass": "Basics.Area.CurvedSurfaceAreaOfCylinder.CurvedSurfaceAreaOfCylinder",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch EquilateralTriangle",
+            "request": "launch",
+            "mainClass": "Basics.Area.EquilateralTriangle.EquilateralTriangle",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsoscelesTriangle",
+            "request": "launch",
+            "mainClass": "Basics.Area.IsoscelesTriangle.IsoscelesTriangle",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parallelogram",
+            "request": "launch",
+            "mainClass": "Basics.Area.Parallelogram.Parallelogram",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RactangleArea",
+            "request": "launch",
+            "mainClass": "Basics.Area.RactangleArea.RactangleArea",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rhombus",
+            "request": "launch",
+            "mainClass": "Basics.Area.Rhombus.Rhombus",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TotalSurfaceAreaOfCube",
+            "request": "launch",
+            "mainClass": "Basics.Area.TotalSurfaceAreaOfCube.TotalSurfaceAreaOfCube",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TriangleArea",
+            "request": "launch",
+            "mainClass": "Basics.Area.TriangleArea.TriangleArea",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator",
+            "request": "launch",
+            "mainClass": "Basics.Calcualtor.Calculator",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaseCheck",
+            "request": "launch",
+            "mainClass": "Basics.CaseCheck.CaseCheck",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountNums",
+            "request": "launch",
+            "mainClass": "Basics.CountNums.CountNums",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DifferenceBetweenProductAndSumOfDigitsOfAnInteger",
+            "request": "launch",
+            "mainClass": "Basics.DifferenceBetweenProductAndSumOfDigitsOfAnInteger.DifferenceBetweenProductAndSumOfDigitsOfAnInteger",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoWhile",
+            "request": "launch",
+            "mainClass": "Basics.DoWhile.DoWhile",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenOrOdd",
+            "request": "launch",
+            "mainClass": "Basics.EvenOrOdd.EvenOrOdd",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factors",
+            "request": "launch",
+            "mainClass": "Basics.Factors.Factors",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Basics.Fibonacci.Fibonacci",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ithno",
+            "request": "launch",
+            "mainClass": "Basics.Fibonacci.ithno",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForLoop",
+            "request": "launch",
+            "mainClass": "Basics.ForLoop.ForLoop",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greetings",
+            "request": "launch",
+            "mainClass": "Basics.Greetings.Greetings",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Basics.Hello.Hello",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Input",
+            "request": "launch",
+            "mainClass": "Basics.Input.Input",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestNo",
+            "request": "launch",
+            "mainClass": "Basics.LargestNo.LargestNo",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxOfAll",
+            "request": "launch",
+            "mainClass": "Basics.LargestNo.MaxOfAll",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operators",
+            "request": "launch",
+            "mainClass": "Basics.Operators.Operators",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CirclePerimeter",
+            "request": "launch",
+            "mainClass": "Basics.Perimeter.Circle.CirclePerimeter",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch EquilateralTriangle(1)",
+            "request": "launch",
+            "mainClass": "Basics.Perimeter.EquilateralTriangle.EquilateralTriangle",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parallelogram(1)",
+            "request": "launch",
+            "mainClass": "Basics.Perimeter.Parallelogram.Parallelogram",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ractangle",
+            "request": "launch",
+            "mainClass": "Basics.Perimeter.Ractangle.Ractangle",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rhombus(1)",
+            "request": "launch",
+            "mainClass": "Basics.Perimeter.Rhombus.Rhombus",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Square",
+            "request": "launch",
+            "mainClass": "Basics.Perimeter.Square.Square",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseTheNo",
+            "request": "launch",
+            "mainClass": "Basics.ReverseTheNo.ReverseTheNo",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RsToUsd",
+            "request": "launch",
+            "mainClass": "Basics.RsToUsd.RsToUsd",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Basics.Sum.Sum",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfAllInputNo",
+            "request": "launch",
+            "mainClass": "Basics.SumOfAllInputNo.SumOfAllInputNo",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Temperature",
+            "request": "launch",
+            "mainClass": "Basics.Temperature.Temperature",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cone",
+            "request": "launch",
+            "mainClass": "Basics.Volume.Cone.Cone",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cylinder",
+            "request": "launch",
+            "mainClass": "Basics.Volume.Cylinder.Cylinder",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RactangualrPrism",
+            "request": "launch",
+            "mainClass": "Basics.Volume.RactangularPrism.RactangualrPrism",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RactangularPyramid",
+            "request": "launch",
+            "mainClass": "Basics.Volume.RactangularPyramid.RactangularPyramid",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sphere",
+            "request": "launch",
+            "mainClass": "Basics.Volume.Sphere.Sphere",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch While",
+            "request": "launch",
+            "mainClass": "Basics.While.While",
+            "projectName": "Java Programs_2442256a"
+        }
+    ]
+}

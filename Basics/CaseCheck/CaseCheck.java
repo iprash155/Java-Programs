@@ -1,4 +1,4 @@
-package Basics;
+package Basics.CaseCheck;
 
 import java.util.Scanner;
 
