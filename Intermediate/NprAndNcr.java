@@ -9,8 +9,9 @@ public class NprAndNcr {
         int n = in.nextInt();
         System.out.println("enter r ");
         int r = in.nextInt();
-        int temp1=n;
-        int temp2=r;
+
+        int temp1 = n;
+        int temp2 = r;
         int NminusR = n - r;
         int fact_n = 1;
         int fact_r = 1;
@@ -36,7 +37,7 @@ public class NprAndNcr {
 
         // Npr
         float npr = (fact_n) / (factNminusR);
-     
+
         // Ncr
         float ncr = (fact_n) / ((fact_r) * (factNminusR));
 
@@ -45,8 +46,8 @@ public class NprAndNcr {
         } else if (temp1 < temp2) {
             System.out.println("n should be greater than r ");
         } else {
-            System.out.println(temp1 + "P" + temp2 + " is "+npr);
-            System.out.println(temp1 + "c" +temp2 + " is " + ncr);
+            System.out.println(temp1 + "P" + temp2 + " is " + npr);
+            System.out.println(temp1 + "c" + temp2 + " is " + ncr);
         }
 
     }
