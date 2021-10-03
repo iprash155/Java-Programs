@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "methods.Armstrong",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Temperature",
+            "request": "launch",
+            "mainClass": "methods.Temperature",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNo",
+            "request": "launch",
+            "mainClass": "Basics.PrimeNo",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNo",
+            "request": "launch",
+            "mainClass": "methods.PrimeNo",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverLoading",
+            "request": "launch",
+            "mainClass": "methods.OverLoading",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableLengthArgument",
+            "request": "launch",
+            "mainClass": "methods.VariableLengthArgument",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChangeArray",
+            "request": "launch",
+            "mainClass": "methods.ChangeArray",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "methods.Swap",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumWithArgument",
+            "request": "launch",
+            "mainClass": "methods.SumWithArgument",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arguments",
+            "request": "launch",
+            "mainClass": "methods.Arguments",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greetings",
+            "request": "launch",
+            "mainClass": "methods.Greetings",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "methods.Sum",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestedSwitch",
+            "request": "launch",
+            "mainClass": "Switch.NestedSwitch",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Days",
+            "request": "launch",
+            "mainClass": "Switch.Days",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fruit",
+            "request": "launch",
+            "mainClass": "Switch.Fruit",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch q27",
             "request": "launch",
             "mainClass": "Intermediate.q27",
