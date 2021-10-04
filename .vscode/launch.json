@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Pellindrome",
+            "request": "launch",
+            "mainClass": "methods.Pellindrome",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "methods.Factorial",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Grade",
+            "request": "launch",
+            "mainClass": "methods.Grade",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaOfCircle",
+            "request": "launch",
+            "mainClass": "methods.AreaOfCircle",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Product",
+            "request": "launch",
+            "mainClass": "methods.Product",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch EligibleToVote",
+            "request": "launch",
+            "mainClass": "methods.EligibleToVote",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenOrOdd",
+            "request": "launch",
+            "mainClass": "methods.EvenOrOdd",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxAndMin",
+            "request": "launch",
+            "mainClass": "methods.MaxAndMin",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch Armstrong",
             "request": "launch",
             "mainClass": "methods.Armstrong",
