@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RsToDollar",
+            "request": "launch",
+            "mainClass": "methods.RsToDollar",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicCalculator",
+            "request": "launch",
+            "mainClass": "methods.BasicCalculator",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleInterest",
+            "request": "launch",
+            "mainClass": "methods.SimpleInterest",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch SumOfNoTillX",
             "request": "launch",
             "mainClass": "methods.SumOfNoTillX",
