@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SumOfNoTillX",
+            "request": "launch",
+            "mainClass": "methods.SumOfNoTillX",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HcfAndLcmOfTwoNo",
+            "request": "launch",
+            "mainClass": "methods.HcfAndLcmOfTwoNo",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiplicationTable",
+            "request": "launch",
+            "mainClass": "methods.MultiplicationTable",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeapYear",
+            "request": "launch",
+            "mainClass": "methods.LeapYear",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNNaturalNOs",
+            "request": "launch",
+            "mainClass": "methods.SumOfNNaturalNOs",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeBwGivenTwoNo",
+            "request": "launch",
+            "mainClass": "methods.PrimeBwGivenTwoNo",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch Pellindrome",
             "request": "launch",
             "mainClass": "methods.Pellindrome",
