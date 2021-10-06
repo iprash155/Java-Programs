@@ -21,5 +21,8 @@ public class ElectricityBill {
                 double bill = (kwh*cost)/days;
                 System.out.println("the bill is "+bill);
             }
+            else {
+                System.out.println("invalid input");
+            }
     }
 }

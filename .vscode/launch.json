@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Vowel",
+            "request": "launch",
+            "mainClass": "methods.Vowel",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseAString",
+            "request": "launch",
+            "mainClass": "methods.ReverseAString",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Intermediateq27",
+            "request": "launch",
+            "mainClass": "methods.Intermediateq27",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Power",
+            "request": "launch",
+            "mainClass": "methods.Power",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch PerfectNo",
+            "request": "launch",
+            "mainClass": "methods.PerfectNo",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch NprNcr",
+            "request": "launch",
+            "mainClass": "methods.NprNcr",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DistanceBetweenTwoPoints",
+            "request": "launch",
+            "mainClass": "methods.DistanceBetweenTwoPoints",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Discount",
+            "request": "launch",
+            "mainClass": "methods.Discount",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompoundInterest",
+            "request": "launch",
+            "mainClass": "methods.CompoundInterest",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cgpa",
+            "request": "launch",
+            "mainClass": "methods.Cgpa",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch BattingAverage",
+            "request": "launch",
+            "mainClass": "methods.BattingAverage",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch AverageMarks",
+            "request": "launch",
+            "mainClass": "methods.AverageMarks",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch Cylinder",
             "request": "launch",
             "mainClass": "methods.volumes.Cylinder",
