@@ -16,7 +16,8 @@ public class TriangleArea {
         System.out.print("enter the side c ");
         float c = in.nextFloat();
 
-        double area , s = (a+b+c)/2;
+        double area ;
+        double s = (a+b+c)/2;
         area = Math.sqrt(s*(s-a)*(s-b)*(s-c));
         System.out.println("the area of the given triangle is "+area);
     }

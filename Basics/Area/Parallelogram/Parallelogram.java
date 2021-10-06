@@ -11,7 +11,7 @@ public class Parallelogram {
         float side2= in.nextFloat();
         System.out.println("enter acute angle between sides in degree ");
         float angle= (float) Math.toRadians(in.nextFloat());
-        double area = side1*side1*Math.sin(angle);
+        double area = side1*side2*Math.sin(angle);
         System.out.println("the area is "+area);
     }
 }

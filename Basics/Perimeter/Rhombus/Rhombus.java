@@ -6,7 +6,7 @@ public class Rhombus {
         
         System.out.println("enter the side ");
         float a = in.nextFloat();
-        double perimeter = 4.0*a;
+        float perimeter = 4.0f*a;
         System.out.println("the perimeter is "+perimeter);
     }
 }
