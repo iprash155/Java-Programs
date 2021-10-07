@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PythagorusTriplet",
+            "request": "launch",
+            "mainClass": "methods.PythagorusTriplet",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch Vowel",
             "request": "launch",
             "mainClass": "methods.Vowel",
