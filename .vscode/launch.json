@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch String",
+            "request": "launch",
+            "mainClass": "Array.String",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputOutput",
+            "request": "launch",
+            "mainClass": "Array.InputOutput",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapwithoutVariable",
+            "request": "launch",
+            "mainClass": "methods.SwapwithoutVariable",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch PythagorusTriplet",
             "request": "launch",
             "mainClass": "methods.PythagorusTriplet",
