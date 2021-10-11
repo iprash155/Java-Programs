@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SwapOfElements",
+            "request": "launch",
+            "mainClass": "Array.SwapOfElements",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultidimentionalArrayList",
+            "request": "launch",
+            "mainClass": "Arraylists.MultidimentionalArrayList",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch InputOutput",
             "request": "launch",
             "mainClass": "Arraylists.InputOutput",
