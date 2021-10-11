@@ -3,7 +3,7 @@ package Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class String{
+public class StringInputOutPut{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("enter the string array : ");
