@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaxInRange",
+            "request": "launch",
+            "mainClass": "Array.MaxInRange",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxElement",
+            "request": "launch",
+            "mainClass": "Array.MaxElement",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch SwapOfElements",
             "request": "launch",
             "mainClass": "Array.SwapOfElements",
