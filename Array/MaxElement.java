@@ -9,17 +9,23 @@ public class MaxElement {
         System.out.print("enter the array element: ");
         int[] arr = new int[5];
         for (int i = 0; i < arr.length; i++) {
-            arr[i]=in.nextInt();
+            arr[i] = in.nextInt();
         }
         System.out.println(Arrays.toString(arr));
-        int a = max(arr);
-        System.out.println("the maximum element is : "+a);
+        if (arr.length == 0) {
+            System.out.println("array length is 0");
+        } else {
+            int a = max(arr);
+            System.out.println("the maximum element is : " + a);
+        }
+
     }
-    static int max(int[] a){
-        int max=a[0];
+
+    static int max(int[] a) {
+        int max = a[0];
         for (int i = 1; i < a.length; i++) {
-            if (a[i]>max) {
-                max=a[i];
+            if (a[i] > max) {
+                max = a[i];
             }
         }
         return max;

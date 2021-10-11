@@ -12,12 +12,21 @@ public class MaxInRange {
             arr[i] = in.nextInt();
         }
         System.out.println(Arrays.toString(arr));
-        System.out.println("enter starting index and ending index of the range: ");
-        int start = in.nextInt();
-        int end = in.nextInt();
 
-        int m = max(arr, start, end);
-        System.out.println("the maximum in given range is : " + m);
+        if (arr.length == 0) {
+            System.out.println("the array is empty");
+        } else {
+            System.out.println("enter starting index and ending index of the range: ");
+            int start = in.nextInt();
+            int end = in.nextInt();
+            if (end < start) {
+                System.out.println("end must be = or > start");
+            } else {
+                int m = max(arr, start, end);
+                System.out.println("the maximum in given range is : " + m);
+            }
+        }
+
     }
 
     static int max(int[] a, int s, int e) {
