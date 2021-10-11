@@ -12,7 +12,7 @@ public class InputOutput {
             arr[i]=in.nextInt();
         }
 
-        // 1st way to print
+        // 1st way to print (for each)
         // for (int num : arr) {
         //     System.out.print(num+" ");
         // }
