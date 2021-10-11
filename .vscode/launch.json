@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch InputOutput",
+            "request": "launch",
+            "mainClass": "Arraylists.InputOutput",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputOutput",
+            "request": "launch",
+            "mainClass": "InputOutput",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputOutput",
+            "request": "launch",
+            "mainClass": "ArrayLists.InputOutput",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColumnNOtFixedSize",
+            "request": "launch",
+            "mainClass": "Array.ColumnNOtFixedSize",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch MultidimentionalArray",
             "request": "launch",
             "mainClass": "Array.MultidimentionalArray",
