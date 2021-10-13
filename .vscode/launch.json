@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AddtoArrayFormofInteger",
+            "request": "launch",
+            "mainClass": "Array.AddtoArrayFormofInteger",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Transpose",
+            "request": "launch",
+            "mainClass": "Array.Assignment.Transpose",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShuffleTheArrays",
+            "request": "launch",
+            "mainClass": "Array.Assignment.ShuffleTheArrays",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunningSumof1dArray",
+            "request": "launch",
+            "mainClass": "Array.Assignment.RunningSumof1dArray",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuildArrayfromPermutation",
+            "request": "launch",
+            "mainClass": "Array.Assignment.BuildArrayfromPermutation",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuildArrayfromPermutation",
+            "request": "launch",
+            "mainClass": "Array.BuildArrayfromPermutation",
+            "projectName": "Java Programs_2442256a"
+        },
+        {
+            "type": "java",
             "name": "Launch ReverseArray",
             "request": "launch",
             "mainClass": "Array.ReverseArray",

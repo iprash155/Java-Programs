@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class MultidimentionalArrayList {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+       Scanner in = new Scanner(System.in);
         System.out.println("enter the lists elements: ");
         ArrayList<ArrayList<Integer>> list = new ArrayList<>(10);
 
