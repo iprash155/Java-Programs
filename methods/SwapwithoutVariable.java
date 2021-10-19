@@ -2,7 +2,7 @@ package methods;
 
 import java.util.Scanner;
 
-public class SwapwithoutVariable {
+public class SwapWithoutTemp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("enter the nos: ");
