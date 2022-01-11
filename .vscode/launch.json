@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "Java Programs_79041246"
+        },
+        {
+            "type": "java",
             "name": "Launch AddtoArrayFormofInteger",
             "request": "launch",
             "mainClass": "Array.AddtoArrayFormofInteger",
