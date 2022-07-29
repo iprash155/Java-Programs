@@ -1,41 +1,45 @@
-package Intermediate;
+import java.util.*;
 
-
-import java.util.Scanner;
-
-public class Lcm {
+public class Test{
     public static void main(String[] args) {
-        Scanner in=new Scanner(System.in);
-        System.out.println("enter nos ");
-        int n1=in.nextInt();
-        int n2=in.nextInt();
-       
-        int temp1=n1;
-        int temp2=n2;
-        int rem = n1%n2;
-        int hcf;
-       
-        if (n1>n2) {
-            while(rem!=0){
-            rem=n1%n2;
-             n1=n2;
-             n2=rem;
-             
-             
-            }
-       hcf=n1;
-        } else {
-            while(rem!=0){
-                rem=n2%n1;
-                n2=n1;
-                n1=rem;
-               
+        System.out.println("enter the nos");
+        Scanner in = new Scanner(System.in);
+        int n1 = in.nextInt();
+        int n2 = in.nextInt();
+        int hcf = 0;
+        int rem = n2%n1;
+        int a =n1;
+        int b = n2;
 
-               }
-        hcf =n2;
+        if (n2>n1) {
+            if (n2%n1==0) {
+                hcf=n1;
+            } else {
+                while(rem!=0){
+                    rem = n2%n1;
+                    n2 = n1;
+                    n1 = rem;
+                }
+            
+                hcf = n2;
+            }    
+            
+        } else {
+            if (n1%n2==0) {
+                hcf=n2;
+            } else {
+                while (rem!=0) {
+                    rem = n1%n2;
+                    n1=n2;
+                    n2=rem;
+                }
+                hcf=n1;
+            }
+            
         }
-    int lcm = (temp1*temp2)/hcf;
-    System.out.println("the lcm is "+lcm);
+
+        int lcm = a*b/hcf;
+       System.out.println("lcm is "+lcm+", hcf is "+hcf); 
     }
 
 }
