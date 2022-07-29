@@ -8,6 +8,8 @@ public class Hcf {
         System.out.println("enter nos ");
         int n1=in.nextInt();
         int n2=in.nextInt();
+        int a = n1;
+        int b = n2;
         int rem = n1%n2;
         if (n1>n2) {
             while(rem!=0){
